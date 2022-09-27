@@ -5,3 +5,4 @@ echo "$NUMBER"
 echo "Added new things"
 echo new thingggg!!!!
 echo yesss!
+echo nice 2222222
